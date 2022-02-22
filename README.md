@@ -11,10 +11,9 @@ Your program will continue receiving words to reverse until one of the following
 
 General instructions
 --------------------
-1. Submit your code to your personal fork.
-2. Use the  `word-reverser.c` file for your code.
-3. Have fun and don't forget the next section.
-
+1. Use the  `word-reverser.c` file for your code
+2. Don't forget to test your code before submission
+3. Submit your code to your personal fork
 
 Test Suite
 ----------
